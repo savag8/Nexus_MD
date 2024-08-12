@@ -1,16 +1,16 @@
-<h1 align="center"> Devil_Cat-V2.0 </h1>
+<h1 align="center"> Nexus MD</h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;Devil_Cat-V2.0;WHATSAPP+BUG+BOT;CREATED+BY+LORD+NO+NAME+MD;RELEASED+11.07.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DC143C&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;NEXUS+MD;WHATSAPP+BUG+BOT;CREATED+BY+LORD+SAVAGE;RELEASED+13.08.24" alt="Typing SVG" /></a>
   </p>
 
-Devil Cat V2.0 BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
+Nexus MD BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
-If you clone my repo or use as base bot, dont forget to give credits. Lord No Name Rulez😶
+If you clone my repo or use as base bot, dont forget to give credits. Savage Rocks✌️
 
-1. Click on **[Fork](https://github.com/Anime-King01/Devil_Cat-V2.0/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/savag8/Nexus_MD)** A must . Make sure to add a star 🌟 to encourage the developers.
    
 **GET SESSION ID**
 ### GENERATE PAIR CODE FROM REPLIT
@@ -21,7 +21,7 @@ https://replit.com/@haotak/DevilCat-1?v=1
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
-    <a href='https://replit.com/github/Anime-King01/Devil_Cat-V2.0' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://github.com/savag8/Nexus_MD' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
 ### DEPLOYMENT ON TERMUX
@@ -60,7 +60,7 @@ git clone  (copy and paste your forked repo not mine to save your changes)
 
 7. After that type: 
 
-cd Devil_Cat-V2.0
+cd Nexus_MD
 
 8. after that type:
 
@@ -95,7 +95,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Create a new app at [Heroku](https://id.heroku.com/login)
 * Add Build packs
 * Connect your heroku with your github
-* Locate Devil_Cat-V2.0
+* Locate Nexus_MD
 * Now deploy.
 * Start the Worker
 * Enjoy the Bot.
@@ -113,7 +113,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 </br>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Devil_Cat-V2.0](https://github.com/Anime-King01/Devil_Cat-V2.0) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Nexus_MD](https://github.com/savag8/Nexus_MD) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
@@ -136,10 +136,10 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/type-your-username-here/Devil_Cat-V2.0
+git clone https://github.com/type-your-username-here/Nexus_MD
 ```
 ```
-cd Devil_Cat-V2.0
+cd Nexus_MD
 ```
 ```
 yarn install
@@ -160,14 +160,16 @@ It will come online
 
 
 
-`Please Devil Cat V2.0 BOT is for scammers only. Don't use it to harm innocent people`
+`Please Nexus MD BOT is for scammers only. Don't use it to harm innocent people`
 
 
 ## Contributions
 
-Contributions to Devil Cat V2.0 MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to Nexus MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thanks to these people ;
+
+   **Lord+No-Name** for the base
 
    **Xeon** who made the base bot
 
@@ -178,16 +180,16 @@ Contributions to Devil Cat V2.0 MD are welcome! If you have ideas for new featur
 
 ## License
 
-The WhatsApp Bot Devil Cat v2 MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot Nexus MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the WhatsApp Bot Devil Cat v2 Md to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the WhatsApp Bot Nexus Md to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## 🎯 Authors 🎯
   <div align="center">
   
-| [![LORD NO NAME](https://github.com/Anime-King01.png?size=150)](https://github.com/Anime-King01) |
+| [![LORD NO NAME](https://github.com/savag8.png?size=150)](https://github.com/savag8) |
 |----|
-| [  LORD NO NAME ](https://github.com/Anime-King01) |
+| [  LORD NO NAME ](https://github.com/savag8) |
 |  Developer |
 
   </div>
