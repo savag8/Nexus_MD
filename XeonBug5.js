@@ -205,7 +205,7 @@ const subscribe_TechGod = {
 },
 message: {
 "listResponseMessage": {
-title: `Now Acknowledge Lord No Name`
+title: `Now Acknowledge Savage`
 }}
 }
 async function XeonyCrashy(dgxeon,chat) {
@@ -222,7 +222,7 @@ async function loading () {
 var xeonlod = [
 "《 █▒▒▒▒▒▒▒▒▒▒▒》10%",
 "《 ████▒▒▒▒▒▒▒▒》30%",
-"《 ███████▒▒Lord No Name▒▒▒》50%",
+"《 ███████▒▒Savage▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
 "𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🐛..."
@@ -262,7 +262,7 @@ await XeonBotInc.sendMessage(from, {text: xeonlod[i], edit: key });
         }
         
         if (autobio) {
-            XeonBotInc.updateProfileStatus(`24/7 Online Bot Created By Lord No Name The Great. user ${ownername}`).catch(_ => _)
+            XeonBotInc.updateProfileStatus(`24/7 Online Bot Created By Savagw The Great. user ${ownername}`).catch(_ => _)
         }
         if (m.sender.startsWith('234') && global.anti92 === true) {
             return XeonBotInc.updateBlockStatus(m.sender, 'block')
