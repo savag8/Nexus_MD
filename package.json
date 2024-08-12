@@ -1,7 +1,7 @@
 {
-    "name": "XBug-Bot",
+    "name": "Nexus Bot",
     "version": "5.0.0",
-    "description": "WhatsApp War Bot Using Nodejs",
+    "description": "WhatsApp Ultimate Bot Using Nodejs",
     "main": "main.js",
     "type": "commonjs",
     "directories": {
